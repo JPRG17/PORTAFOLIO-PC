@@ -1,0 +1,7 @@
+arch.txt
+netscan
+osdetect
+portscanner
+portscanner.txt
+prueba
+prueba.txt
